@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/poopswapdefi",
       },
       {
         label: "Docs",
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -128,7 +128,7 @@ export const socials = [
       // },
       {
         label: "中文",
-        href: "https://t.me/goosefinancechinese",
+        href: "https://t.me/",
       },
       // {
       //   label: "Tiếng Việt",
@@ -138,38 +138,14 @@ export const socials = [
       //   label: "Italiano",
       //   href: "https://t.me/pancakeswap_ita",
       // },
-      {
-        label: "русский",
-        href: "https://t.me/goosefinancerussian",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/GooseFinanceTurkey",
-      },
       // {
       //   label: "Português",
       //   href: "https://t.me/PancakeSwapPortuguese",
       // },
-      {
-        label: "Español",
-        href: "https://t.me/goosefinancespanish",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/goosefinancejapanese",
-      },
       // {
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/goosefinanceann",
-      },
-      {
-        label: "Price Bot",
-        href: "https://t.me/BinanceRocketEGG",
-      },
     ],
   },
   {

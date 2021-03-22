@@ -8,6 +8,7 @@ export const baseColors = {
   secondary: "#FFF",
   success: "#31D0AA",
   warning: "#FFB237",
+  // brown: "#68331f",
 };
 
 export const brandColors = {
@@ -20,12 +21,12 @@ export const lightColors: Colors = {
   background: "#412013",
   backgroundDisabled: "#E9EAEB",
   contrast: "#191326",
-  invertedContrast: "#b75a36",
-  input: "#eeeaf4",
+  invertedContrast: "#68331f",
+  input: "#412013",
   tertiary: "#EFF4F5",
-  text: "#23a4a2",
+  text: "#f0b90b",
   textDisabled: "#BDC2C4",
-  textSubtle: "#2470ff",
+  textSubtle: "#f0b90b",
   borderColor: "#E9EAEB",
   card: "#b75a36",
   gradients: {
