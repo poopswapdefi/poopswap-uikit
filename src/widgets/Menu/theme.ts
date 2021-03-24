@@ -3,7 +3,7 @@ import { NavTheme } from "./types";
 
 export const light: NavTheme = {
   background: lightColors.invertedContrast,
-  hover: "#EEEAF4",
+  hover: "#b75a36",
 };
 
 export const dark: NavTheme = {

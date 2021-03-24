@@ -29,11 +29,6 @@ export const links = [
     href: "/syrup",
   },
   {
-    label: "Lottery",
-    icon: "TicketIcon",
-    href: "/lottery",
-  },
-  {
     label: "NFT",
     icon: "NftIcon",
     href: "/nft",
