@@ -2129,17 +2129,17 @@ var links = [
             //   href: "https://voting.pancakeswap.finance",
             // },
             {
-                label: "Github",
-                href: "https://github.com/poopswapdefi",
-            },
-            {
-                label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
-            },
-            {
-                label: "Blog",
-                href: "https://goosefinance.medium.com/",
-            },
+                label: 'Github',
+                href: 'https://github.com/poopswapdefi/',
+              },
+              {
+                label: 'Docs',
+                href: 'https://poopswap.gitbook.io/poop-swap/',
+              },
+              {
+                label: 'Blog',
+                href: 'https://poopswap.medium.com/',
+              },
         ],
     },
 ];
@@ -2149,23 +2149,23 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "English",
-                href: "https://t.me/",
+                label: "Group",
+                href: "https://t.me/poopswap_official",
             },
             // {
             //   label: "Bahasa Indonesia",
             //   href: "https://t.me/PancakeSwapIndonesia",
             // },
             {
-                label: "中文",
-                href: "https://t.me/",
+                label: "Announcement",
+                href: "https://t.me/poopswap_official_announcement",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceGoose",
+        href: "https://twitter.com/poop_swap",
     },
 ];
 var MENU_HEIGHT = 64;

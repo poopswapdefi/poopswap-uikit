@@ -94,15 +94,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/poopswapdefi",
+        href: "https://github.com/poopswapdefi/",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://poopswap.gitbook.io/poop-swap/",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://poopswap.medium.com/",
       },
     ],
   },
@@ -114,39 +114,23 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "English",
-        href: "https://t.me/",
+        label: "Group",
+        href: "https://t.me/poopswap_official",
       },
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
       // },
       {
-        label: "中文",
-        href: "https://t.me/",
+        label: "Announcement",
+        href: "https://t.me/poopswap_official_announcement",
       },
-      // {
-      //   label: "Tiếng Việt",
-      //   href: "https://t.me/PancakeSwapVN",
-      // },
-      // {
-      //   label: "Italiano",
-      //   href: "https://t.me/pancakeswap_ita",
-      // },
-      // {
-      //   label: "Português",
-      //   href: "https://t.me/PancakeSwapPortuguese",
-      // },
-      // {
-      //   label: "Français",
-      //   href: "https://t.me/pancakeswapfr",
-      // },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
+    href: "https://twitter.com/poop_swap",
   },
 ];
 
