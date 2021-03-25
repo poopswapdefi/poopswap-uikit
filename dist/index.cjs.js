@@ -2129,17 +2129,17 @@ var links = [
             //   href: "https://voting.pancakeswap.finance",
             // },
             {
-                label: 'Github',
-                href: 'https://github.com/poopswapdefi/',
-              },
-              {
-                label: 'Docs',
-                href: 'https://poopswap.gitbook.io/poop-swap/',
-              },
-              {
-                label: 'Blog',
-                href: 'https://poopswap.medium.com/',
-              },
+                label: "Github",
+                href: "https://github.com/poopswapdefi/",
+            },
+            {
+                label: "Docs",
+                href: "https://poopswap.gitbook.io/poop-swap/",
+            },
+            {
+                label: "Blog",
+                href: "https://poopswap.medium.com/",
+            },
         ],
     },
 ];
